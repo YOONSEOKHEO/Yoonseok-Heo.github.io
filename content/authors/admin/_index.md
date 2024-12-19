@@ -34,7 +34,6 @@ profiles:
     url: 'mailto:nlp.ysheo419@gmail.com'
     label: E-mail Me
   - icon: brands/x
-	#url: https://twitter.com/GetResearchDev
     url: ''
   - icon: brands/instagram
     url: ''
@@ -44,8 +43,6 @@ profiles:
     url: https://www.linkedin.com/in/ysheo419
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=rGa25MMAAAAJ&hl=ko
-	#- icon: academicons/orcid
-	#url: https://orcid.org/
 
 interests:
   - Large Language Models
